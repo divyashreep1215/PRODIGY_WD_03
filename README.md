@@ -48,7 +48,9 @@ tic-tac-toe/
 
 ---
 ## Live demo
-Link:
+Link:https://famous-dusk-389c55.netlify.app/
+
+---
 
 ## 🚀 How to Run
 
