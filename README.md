@@ -5,7 +5,7 @@ A simple and interactive Tic-Tac-Toe web application built using HTML, CSS, and 
 A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.  
 This project demonstrates core front-end development concepts and game logic implementation.
 
----
+
 
 ## ✨ Features
 
@@ -17,7 +17,7 @@ This project demonstrates core front-end development concepts and game logic imp
 - Responsive design
 - Clean and modern UI
 
----
+
 
 ## 🧠 Game Logic
 
@@ -28,7 +28,7 @@ This project demonstrates core front-end development concepts and game logic imp
 - Detects draw situations
 - Disables board after game ends
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -36,7 +36,7 @@ This project demonstrates core front-end development concepts and game logic imp
 - CSS3 (Grid & Animations)
 - JavaScript (DOM Manipulation)
 
----
+
 
 ## 📂 Project Structure
 tic-tac-toe/
@@ -46,11 +46,11 @@ tic-tac-toe/
 └── script.js
 
 
----
+
 ## Live demo
 Link:https://famous-dusk-389c55.netlify.app/
 
----
+
 
 ## 🚀 How to Run
 
@@ -59,7 +59,7 @@ Link:https://famous-dusk-389c55.netlify.app/
 3. Open `index.html` in your browser
 4. Start playing 🎮
 
----
+
 
 ## 🎯 Learning Outcomes
 
@@ -68,7 +68,7 @@ Link:https://famous-dusk-389c55.netlify.app/
 - Handling user events
 - Creating responsive layouts with CSS Grid
 
----
+
 
 ## 👩‍💻 Author
 
